@@ -14,6 +14,8 @@ This repository contains all the projects from my PhD thesis, which are open-sou
    * Chpater 4: https://github.com/BinghengNUS/TR-NeuroMHE
    * Chapter 5: https://github.com/RCL-NUS/Auto-Multilift
 
+Please see the '**Discussion**' folder for a note on minor typos and citation corrections.
+
 ## Citation
 If you find these projects helpful in your publications, I would appreciate citing my thesis
 ```
@@ -27,10 +29,7 @@ If you find these projects helpful in your publications, I would appreciate citi
   url          = {https://scholarbank.nus.edu.sg/entities/publication/55fafb31-8609-412d-9173-bbc59dffce69}, % optional
 }
  ```
-
-Kindly refer to the note addressing minor typographical and citation errors, found in the '**Discussion**' folder.
-
 ## Contact
-Should you have any feedback, please don’t hesitate to let me know — any suggestions are welcome.
+I welcome any suggestions or feedback you may have — please feel free to reach out.
    * Name: Dr. Bingheng Wang
    * Email: wangbingheng@u.nus.edu
