@@ -14,7 +14,7 @@ This repository contains all the projects from my PhD thesis, which are open-sou
    * Chpater 4: https://github.com/BinghengNUS/TR-NeuroMHE
    * Chapter 5: https://github.com/RCL-NUS/Auto-Multilift
 
-Please see the '**Discussion**' folder for a note on minor typos and citation corrections.
+Minor corrections (e.g., typos and citation fixes) are documented in a note located in the '**Discussion**' folder.
 
 ## Citation
 If you find these projects helpful in your publications, I would appreciate citing my thesis
