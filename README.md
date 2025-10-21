@@ -1,5 +1,5 @@
 # My-PhD-Thesis
-My PhD thesis, entitled "***Learning Robot Control Via Bilevel Optimization***", is available at https://scholarbank.nus.edu.sg/entities/publication/55fafb31-8609-412d-9173-bbc59dffce69
+My PhD thesis, entitled "***Learning Robot Control Via Bilevel Optimization***", is available at https://scholarbank.nus.edu.sg/entities/publication/55fafb31-8609-412d-9173-bbc59dffce69 and ProQuest https://www.proquest.com/openview/01064fa25c05b59400df8e90321f5bd2/
 
 |     The proposed learning methods for bilevel optimization problems with neural network policies     |
 :----------------------------------------------------------------------------------------------------------------------------------:
